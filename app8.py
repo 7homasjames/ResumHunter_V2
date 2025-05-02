@@ -3,7 +3,7 @@ import requests
 import pdfplumber
 import docx2txt
 
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://resumhunter-v2.onrender.com"
 
 def ats_check(resume_text, job_description, managers_note=""):
     try:
