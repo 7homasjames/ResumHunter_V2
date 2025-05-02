@@ -1,0 +1,10 @@
+fastapi
+python-dotenv
+pinecone
+sentence-transformers
+google-generativeai
+streamlit
+requests
+pdfplumber
+uvicorn
+docx2txt
