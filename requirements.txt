@@ -8,3 +8,4 @@ requests
 pdfplumber
 uvicorn
 docx2txt
+hf_xet
